@@ -2,7 +2,7 @@ export default [
   {
     title: "BS6H - بسطة",
     description:
-      "A simple, free non-profit platform for buying and selling without any fees.",
+      "The Haraj alternative, a simple, free non-profit platform for buying and selling without any fees.",
     link: "https://bs6h.com",
     createdAt: "2024-5-20",
     archived: false,
